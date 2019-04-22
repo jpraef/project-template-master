@@ -6,5 +6,8 @@ biocLite(c(
 {% endif %}
 
 install.packages(c(
-  'tidyverse'
+  'tidyverse',
+  'raster',
+  'rgdal',
+  'sp'
 ), repos='http://cran.r-project.org')

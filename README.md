@@ -1,4 +1,4 @@
-# Outlier Bio project template
+# Data Science project template
 
 This is a [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/index.html) template for data science projects. It sets up stubs for:
 

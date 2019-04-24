@@ -15,7 +15,7 @@ Now your notebook server is running! Open a browser and point to `http://localho
 {% if cookiecutter.platform_slug == 'jupyter' %}
 - Enter the password token displayed on the terminal
 - Click on `notebook.ipynb` to open{% else %}
-- Log into RStudio with username `rstudio`, password `rstudio`
+- Log into RStudio with username `rstudio`, password `rstudio2`
 - Open `notebook.Rmd`{% endif %}
 - If you're accessing a finished notebook, you can browse, edit the code, and execute the cells to reproduce or alter the figures.
 - If you're starting a new notebook, read the project guidelines in the notebook and start coding!

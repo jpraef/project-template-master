@@ -8,11 +8,11 @@ output:
 ---
 
 ```{r, include=FALSE}
-datadir <- "../data"
+datadir <- "./data"
 library(tidyverse)
 library(raster)
 library(sp)
-source("../src/utils.R")
+source("./src/utils.R")
 ```
 {{ cookiecutter.project_short_description }}
 
